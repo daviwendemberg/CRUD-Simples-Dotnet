@@ -1,0 +1,15 @@
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.csproj.AssemblyReference.cache
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.AssemblyInfoInputs.cache
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.AssemblyInfo.cs
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.csproj.CoreCompileInputs.cache
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/bin/Debug/net6.0/CRUD-Simples-Dotnet
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/bin/Debug/net6.0/CRUD-Simples-Dotnet.deps.json
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/bin/Debug/net6.0/CRUD-Simples-Dotnet.runtimeconfig.json
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/bin/Debug/net6.0/CRUD-Simples-Dotnet.dll
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/bin/Debug/net6.0/CRUD-Simples-Dotnet.pdb
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.dll
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/refint/CRUD-Simples-Dotnet.dll
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.pdb
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/CRUD-Simples-Dotnet.genruntimeconfig.cache
+/home/davi/DIO/CRUD-Simples-Dotnet/CRUD-Simples-Dotnet/obj/Debug/net6.0/ref/CRUD-Simples-Dotnet.dll
